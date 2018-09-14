@@ -1,0 +1,11 @@
+C:\Users\ostoj\source\repos\Voice Bot\Voice Bot\obj\Debug\Voice Bot.csprojResolveAssemblyReference.cache
+C:\Users\ostoj\source\repos\Voice Bot\Voice Bot\obj\Debug\Voice_Bot.Form1.resources
+C:\Users\ostoj\source\repos\Voice Bot\Voice Bot\obj\Debug\Voice_Bot.Properties.Resources.resources
+C:\Users\ostoj\source\repos\Voice Bot\Voice Bot\obj\Debug\Voice Bot.csproj.GenerateResource.Cache
+C:\Users\ostoj\source\repos\Voice Bot\Voice Bot\obj\Debug\Voice Bot.csproj.CoreCompileInputs.cache
+C:\Users\ostoj\source\repos\Voice Bot\Voice Bot\obj\Debug\Voice_Bot.Form2.resources
+C:\Users\ostoj\source\repos\Voice Bot\Voice Bot\bin\Debug\TOJA.exe.config
+C:\Users\ostoj\source\repos\Voice Bot\Voice Bot\bin\Debug\TOJA.exe
+C:\Users\ostoj\source\repos\Voice Bot\Voice Bot\bin\Debug\TOJA.pdb
+C:\Users\ostoj\source\repos\Voice Bot\Voice Bot\obj\Debug\TOJA.exe
+C:\Users\ostoj\source\repos\Voice Bot\Voice Bot\obj\Debug\TOJA.pdb
