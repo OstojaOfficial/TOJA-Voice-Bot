@@ -2,6 +2,7 @@
 
   * Toja Browser is simple virtual assistant written in C# .NET
   * List of commands:
+  ```
   hello
   how are you
   what time is it
@@ -22,6 +23,7 @@
   play
   pause
   whats my name
+  ```
   
   * Note: Commands like "whats the temperature" and "whats the weather like" are set for Serbia, if you want to change those look into Yahoo weather API
   
