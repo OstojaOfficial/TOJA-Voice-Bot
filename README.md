@@ -25,7 +25,7 @@
   whats my name
   ```
   
-  * Note: Commands like "whats the temperature" and "whats the weather like" are set for Serbia, if you want to change those look into Yahoo weather API
+  * Note: Commands like "whats the temperature" and "whats the weather like" are set for Serbia, if you want to change those look into Yahoo weather API.
   
 ## Installation
 
