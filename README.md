@@ -1,6 +1,6 @@
 # TOJA Voice Bot
 
-  * Toja Browser is simple virtual assistant written in C# .NET
+  * TOJA Voice Bot is simple virtual assistant written in C# .NET
   * List of commands:
   ```
   hello
